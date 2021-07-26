@@ -7,3 +7,12 @@ main>.container {
     bottom: 0;
     width: 100% ;
 }
+
+.homeBG {
+    width: 100%;
+    background: url(/img/The\ Grid.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
